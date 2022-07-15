@@ -15,18 +15,19 @@ Users can connect to the application via the Internet and browse all the smart c
 need. Users can see the entire map of a city along with the important landmarks. This will make their movement 
 across the city much more comfortable. Mentioning python and OOPS projects can help your resume look much 
 more interesting than others. 
+
 The smart city application has five modules: 
- Administration module – It is the central controller of the application. It uploads all the new information 
+- Administration module – It is the central controller of the application. It uploads all the new information 
 on the site and authenticates user profiles, and supervises the maintenance of the other four modules. 
- Tourism module – As the name suggests, this module handles all the tourism-related operations in the 
+- Tourism module – As the name suggests, this module handles all the tourism-related operations in the 
 city, such as hotels, restaurants, tourist attractions, ATMs, theatres, and so on. A user authenticated by 
 the administration module becomes the primary user of this module. 
- Student module – This module is designed specifically for helping students move around the city. It 
+- Student module – This module is designed specifically for helping students move around the city. It 
 contains all the academia related information for students, including the location of best educational 
 institutes, libraries, coaching centers, technical colleges, universities, colleges, etc. 
- Jobseekers module – This module contains important information on the job opportunities available in 
+- Jobseekers module – This module contains important information on the job opportunities available in 
 the city. Users can access all kinds of job-related information across various industries. The main 
 objective of this module is to help the city administration to combat unemployment problems in the city. 
- Business module – This module focuses on offering business-related news, information, and 
+- Business module – This module focuses on offering business-related news, information, and 
 opportunities in the city. Users can access information on trade and business centers and industries in the 
 city. 
